@@ -1,8 +1,8 @@
 {
 	"Name": "",
-	"Version": 1789293090,
+	"Version": 1789315173,
 	"MaxPerkRepetition": 1,
-	"GlobalNotes": "",
+	"GlobalNotes": "Lay Waste is allowed with Pop OR Eruption, not both",
 	"Tiers": [
 		{
 			"Name": "General",
@@ -32,6 +32,7 @@
 				"24",
 				"25",
 				"26",
+				"246",
 				"301",
 				"28",
 				"273",
@@ -41,6 +42,8 @@
 				"31",
 				"33",
 				"35",
+				"38",
+				"39",
 				"46",
 				"51",
 				"319",
@@ -664,11 +667,9 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
-				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -676,7 +677,10 @@
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"246",
+				"38"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
@@ -733,11 +737,9 @@
 				0
 			],
 			"BalanceTiers": [
-				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
-				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -748,6 +750,8 @@
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
+				"246",
+				"38",
 				"36"
 			],
 			"SurvivorWhitelistedComboPerks": [],
@@ -824,9 +828,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -960,9 +968,13 @@
 				]
 			],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -1226,9 +1238,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -1359,11 +1375,9 @@
 				"8"
 			],
 			"BalanceTiers": [
-				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
-				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -1373,7 +1387,10 @@
 				"36"
 			],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"246",
+				"38"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [
 				"220"
@@ -1440,9 +1457,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -1575,9 +1596,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -1648,7 +1673,17 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
+				"8",
+				"34",
+				"43",
+				"65",
+				"76",
+				"107",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -1657,7 +1692,6 @@
 			"AddonTiersBanned": [],
 			"IndividualAddonBans": [
 				337,
-				333,
 				328
 			],
 			"ItemWhitelist": [
@@ -1917,11 +1951,9 @@
 				"4"
 			],
 			"BalanceTiers": [
-				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
-				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
@@ -1930,6 +1962,8 @@
 			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [
+				"246",
+				"38",
 				"36"
 			],
 			"SurvivorWhitelistedComboPerks": [],
@@ -2370,9 +2404,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -2432,9 +2470,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -2580,9 +2622,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -2661,9 +2707,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -2740,9 +2790,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -2828,9 +2882,13 @@
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
 			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
 				"8",
 				"34",
+				"43",
 				"65",
+				"76",
 				"77",
 				"107",
 				"112"
@@ -3338,7 +3396,17 @@
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [],
+			"SurvivorIndvPerkBans": [
+				"1",
+				"7",
+				"8",
+				"34",
+				"43",
+				"65",
+				"76",
+				"107",
+				"112"
+			],
 			"SurvivorComboPerkBans": [],
 			"SurvivorWhitelistedPerks": [],
 			"SurvivorWhitelistedComboPerks": [],
@@ -3380,8 +3448,15 @@
 					"Addons": []
 				}
 			},
-			"SurvivorOfferings": [],
-			"KillerOfferings": []
+			"SurvivorOfferings": [
+				0,
+				1,
+				2,
+				5
+			],
+			"KillerOfferings": [
+				5
+			]
 		},
 		{
 			"Name": "The Krasue",
@@ -3596,26 +3671,25 @@
 			"KillerNotes": "",
 			"IsDisabled": false,
 			"Map": [
-				"4",
+				"5",
 				"9",
 				"11"
 			],
 			"BalanceTiers": [
-				0,
 				2
 			],
 			"SurvivorBalanceTiers": [
-				0,
 				2
 			],
 			"AntiFacecampPermitted": false,
 			"KillerIndvPerkBans": [],
 			"KillerComboPerkBans": [],
-			"SurvivorIndvPerkBans": [
-				"36"
-			],
+			"SurvivorIndvPerkBans": [],
 			"SurvivorComboPerkBans": [],
-			"SurvivorWhitelistedPerks": [],
+			"SurvivorWhitelistedPerks": [
+				"246",
+				"38"
+			],
 			"SurvivorWhitelistedComboPerks": [],
 			"KillerWhitelistedPerks": [],
 			"KillerWhitelistedComboPerks": [],
